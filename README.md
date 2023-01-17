@@ -1,6 +1,6 @@
 # AluraPlus
 
-## A AluraPlus foi desenvolvida no curso da Alura.
+## A AluraPlus foi desenvolvida no curso Praticando HTML e CSS da Alura.
 
 <br>
 
