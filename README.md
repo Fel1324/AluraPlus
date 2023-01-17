@@ -1,4 +1,4 @@
-# AluraPlus
+# 👨‍💻 AluraPlus
 
 ## A AluraPlus foi desenvolvida no curso Praticando HTML e CSS da Alura.
 
@@ -10,7 +10,7 @@
 
 <br>
 
-## Tópicos
+## ⌨️ Tópicos
 
 - [Imagem do projeto](#imagem)
 - [Descrição do projeto](#desc)
@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 id="imagem">Imagem do projeto</h2>
+<h2 id="imagem">🖥️ Imagem do projeto</h2>
 
 <p align="center">
     <img src=".github/preview.png" alt="Interface de assinaturas do AluraPlus">
@@ -29,7 +29,7 @@
 
 <br>
 
-<h2 id="desc">Descrição do projeto</h2>
+<h2 id="desc">💾 Descrição do projeto</h2>
 
 <p>O AluraPlus é um site que apresenta e oferece ao usuário os dois planos de estudos da Alura (<strong>alura+</strong> e o <strong>alura língua</strong>), o site também oferece a assinatura dos dois planos em conjunto, através do <strong>combo+.</strong></p>
 
@@ -37,20 +37,20 @@
 
 <br>
 
-<h2 id="acesso">Acesso ao projeto</h2>
+<h2 id="acesso">🔗 Acesso ao projeto</h2>
 
 Acesse o projeto clicando [aqui](https://fel1324.github.io/AluraPlus/)
 
 <br>
 
-<h2 id="tech">Tecnologias utilizadas</h2>
+<h2 id="tech">👨‍🚀 Tecnologias utilizadas</h2>
 
 * HTML e CSS
 * Git e Github
 
 <br>
 
-<h2 id="status">Status do projeto</h2>
+<h2 id="status">🚧 Status do projeto</h2>
 
 <h4 style="text-transform: uppercase; color: #0F0">
     ✔️ Projeto finalizado
@@ -58,6 +58,6 @@ Acesse o projeto clicando [aqui](https://fel1324.github.io/AluraPlus/)
 
 <br>
 
-<h2 id="license">Licença</h2>
+<h2 id="license">📝 Licença</h2>
 
 Esse projeto está sob a licença MIT.
