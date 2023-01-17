@@ -162,3 +162,156 @@ body{
     font-size: 14px;
     margin-top: 1.4em;
 }
+
+@media screen and (max-width: 1024px){
+    .principal{
+        background-image: none;
+    }
+
+    .container{
+        height: 100vh;
+        display: grid;
+        grid-template-columns: 100%;
+    }
+
+    .container__botao{
+        width: 100%;
+        margin: 0 auto 1rem auto;
+    }
+
+    .secundario{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .plataformas{
+        margin-bottom: 30rem;
+    }
+
+    .descricao__texto{
+        margin-bottom: 1.2rem;
+    }
+
+    .combo{
+        display: flex;
+        flex-direction: column;
+        margin-top: 10rem;
+    }
+
+    .cursos{
+        margin-top: 20rem;
+        margin-bottom: 10rem;
+    }
+
+    .dispositivos{
+        width: 100vw;
+    }
+
+    .dispositivos__titulo{
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .dispostivos__lista{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .rodape{
+        width: 100%;
+        margin: 0 auto 3.5rem auto;   
+    }
+
+    .rodape__lista{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .rodape__texto{
+        width: 60%;
+        margin: 1.5rem auto;
+    }
+}
+
+@media screen and (max-width: 550px) {    
+    .principal{
+        margin-top: 3.5rem;
+        margin-bottom: 20rem;
+    }
+    
+    .container{
+        height: 40vh;
+    }
+    
+    .container__descricao{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .container__imagem{
+        width: 100%;
+    }
+
+    .container__botao:last-child{
+        width: 50%;
+    }
+
+    .secundario__imagem{
+        width: 100%;
+    }
+
+    .descricao__titulo{
+        line-height: 1.1;
+    }
+
+    .descricao__texto{
+        width: 100vw;
+    }
+
+    .descricao__texto:nth-child(1){
+        width: 90vw;
+    }
+    
+    .cursos{
+        margin-bottom: 15rem;
+    }
+
+    .rodape__texto{
+        width: 90vw;
+        line-height: 1.5;
+    }
+}
+
+@media screen and (max-width: 446px) {
+    .principal{
+        margin-bottom: 30rem;
+    }
+    
+    .container{
+        height: 20vh;
+    }
+
+    .plataformas{
+        margin-bottom: 15rem;
+    }
+    
+    .cursos{
+        margin-top: 15rem;
+    }
+
+    .secundario__imagem{
+        display: none;
+    }
+
+    .descricao__texto{
+        width: 90vw;
+    }
+}
+
+@media screen and (min-width: 360px) {
+    .principal{
+        margin-bottom: 35rem;
+    }
+}
